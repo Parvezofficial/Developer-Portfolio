@@ -37,3 +37,19 @@ h1 {
   background-repeat: no-repeat;
   background-position: right;
 }
+.Exprience-item {
+  width: 40%;
+  margin-left: 7%;
+  margin-right: 7%;
+  padding: 30px;
+  text-align: justify;
+  box-shadow: 10px 10px 23px gray;
+}
+h2 {
+  font-size: 28px;
+}
+.Exp {
+  background-image: url(Images/exp-bg.png);
+  background-repeat: no-repeat;
+  background-position: left;
+}
